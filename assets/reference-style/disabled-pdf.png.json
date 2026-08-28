@@ -1,0 +1,38 @@
+{
+  "src": "/var/folders/sl/j2rbv28j5kjghnr2bp92zjg40000gn/T/codex-clipboard-033107e2-e77e-4169-b673-c1099e55e372.png",
+  "out": "public/assets/reference-style/disabled-pdf.png",
+  "source_size": [
+    1506,
+    1045
+  ],
+  "crop_box": [
+    105,
+    370,
+    420,
+    665
+  ],
+  "transparent_edge": null,
+  "threshold": 24,
+  "feather": 0.0,
+  "matte": [
+    255,
+    255,
+    255
+  ],
+  "brightness": 1.0,
+  "saturation": 1.0,
+  "output": {
+    "size": [
+      315,
+      295
+    ],
+    "alpha_bbox": [
+      0,
+      0,
+      315,
+      295
+    ],
+    "opaque_edge_pixel_count": 1220,
+    "opaque_edge_pixel_ratio": 1.0
+  }
+}
